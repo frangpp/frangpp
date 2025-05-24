@@ -1,4 +1,4 @@
-# <span style="color: yellow">🌟 Holi, soy la Fran! 🌟</span>  
+# <span style="color: yellow">🌟 Holaaa, soy la Fran! 🌟</span>  
 
 **💡 "Desarrolladora en proceso con rasgos de arqui de Art Nouveau"**  
 
