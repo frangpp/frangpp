@@ -1,10 +1,10 @@
-# <span style="color: yellow">🌟 Holaaa, soy la Fran! 🌟</span>  
+# <span style="color: yellow">🌟 Holaa, soy la Fran! 🌟</span>  
 
-**💡 "Desarrolladora en proceso con rasgos de arqui de Art Nouveau"**  
+**💡Me gusta mucho el elden ring, reìrme, crear cosas que me facilitan la vida y la de mis cercanos**  
 
 
 ### 🎨 **Mi estilo**   
-- 🦄 _"Que se vea limpio, que se vea bonito"_  
+_"Que se vea limpio, que se vea bonito"_  
 
 
 ### 🛠 **Tecnologías que estoy esculpiendo**   
