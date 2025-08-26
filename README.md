@@ -18,7 +18,7 @@ Antes era arquitecta pero no tenia tanta libertad creativa y de conocimiento com
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Netbeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-### 📈 Estadísticas de GitHub
+### **📈 Estadísticas de GitHub**
 
 
 
