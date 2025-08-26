@@ -1,14 +1,11 @@
-# <span style="color: yellow">🌟 Holaa, soy la Fran! 🌟</span>  
+# <span style="color: yellow"> Holaa! 🌟</span>  
 
-**💡Me gusta mucho el elden ring, reírme, crear cosas que me facilitan la vida y la de mis cercanos** 
-- **Me gusta tambien "El Principito", pintar, tomar fotos y resolver cuestiones esenciales**
+### **💡Me gusta mucho el elden ring, reírme, crear cosas que me facilitan la vida y la de mis cercanos** 
+### **🎨 Me gusta tambien "El Principito", pintar, tomar fotos y resolver cuestiones esenciales**
 
 Antes era arquitecta pero no tenia tanta libertad creativa y de conocimiento como el que hay en C.S.
 - Feliz aprendiendo siempre -
 
-
-### 🎨 **Mi estilo**   
-_"Que se vea limpio, que se vea bonito"_  
 
 
 ### 🛠 **Tecnologías que estoy esculpiendo**   
